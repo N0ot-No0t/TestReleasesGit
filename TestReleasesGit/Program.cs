@@ -8,6 +8,7 @@ namespace TestReleasesGit
         {
             Console.WriteLine("Argument: "+args[0]);
             Console.ReadKey();
+
         }
     }
 }
